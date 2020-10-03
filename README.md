@@ -1,10 +1,10 @@
-#Project Description
+# Project Description
 
 Horiseon Marketing Agency requested to refactor their website
 so that it uses semantic structure of HTML elements in order to
 follow accessibility standards.
 
-##Acceptancee Criteria
+## Acceptancee Criteria
 
 GIVEN a webpage meets accessibility standards
 * WHEN I view the source code
@@ -31,8 +31,8 @@ Numbering reflects the order that I followed when refactoring this website.
 
 I consulted the following refence material, tutorials and webistes:
 
-[HTML Semantic Elements] (https://www.w3schools.com/html/html5_semantic_elements.asp#:~:text=A%20semantic%20element%20clearly%20describes,%3E%20%2D%20Clearly%20defines%20its%20content.)
+[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp#:~:text=A%20semantic%20element%20clearly%20describes,%3E%20%2D%20Clearly%20defines%20its%20content.)
 
-[How to push code to Github] (https://www.youtube.com/watch?v=wrb7Gge9yoE&t=290s)
+[How to push code to Github](https://www.youtube.com/watch?v=wrb7Gge9yoE&t=290s)
 
-[Getting started with Github, Part 3: Creating a Read Me File in Markdown] (https://www.youtube.com/watch?v=yXY3f9jw7fg)
+[Getting started with Github, Part 3: Creating a Read Me File in Markdown](https://www.youtube.com/watch?v=yXY3f9jw7fg)
